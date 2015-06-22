@@ -19,10 +19,6 @@
             "link": "#/snipets",
             "dropdown": [
               {
-                "label": "vitinho",
-                "link": "#carousel"
-              },
-			  {
                 "label": "post",
                 "link": "#post"
               },
